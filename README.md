@@ -5,6 +5,14 @@
 - I'm currently learning **Kotlin**!
 - I'm currently learning Web **Development**!
 
+<br>
+
+<div align="center"> 
+  <a href = "mailto:mathffreitas@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheusfilipefreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/MatheusFilipeFreitas">
@@ -27,9 +35,3 @@
     <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 </div>
 
-## Social Media
-   
-<div> 
-  <a href = "mailto:mathffreitas@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheusfilipefreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
