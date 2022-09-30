@@ -4,9 +4,11 @@
 - I'm currently arresting Kotlin!
 - FullStack Developer!
 - Backend:
-   - RESTful (JAVA, SPRING)
+   - RESTful (JAVA, SPRING);
+   - AWS;
+   - RabbitMQ;
 - Frontend:
-   - AngularJS (CSS, HTML, JS, TS)
+   - AngularJS (CSS, HTML, JS, TS);
 
 <br>
 
