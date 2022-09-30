@@ -4,9 +4,9 @@
 - I'm currently arresting Kotlin!
 - FullStack Developer!
 - Backend:
-   - - RESTful (JAVA, SPRING)
+   - RESTful (JAVA, SPRING)
 - Frontend:
-   - - AngularJS (CSS, HTML, JS, TS)
+   - AngularJS (CSS, HTML, JS, TS)
 
 <br>
 
