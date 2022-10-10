@@ -8,7 +8,7 @@
   <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" /> 
 </div>
 
-<h1 align="center">FULLSTACK DEVELOPER</h1>
+<h1 align="center">FULLSTACK DEVELOPER JR.</h1>
 
 <h2 align="center">Hi 👋, I'm Matheus Freitas</h2>
 
