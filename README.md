@@ -29,3 +29,32 @@
 </div>
 
 <br>
+
+```mermaid
+journey
+	title Projects
+	section January
+    YETI Animated Login Screen: 7: Completed
+		Fullstack E-commerce: 4: Ongoing
+  section February
+  
+  section March 
+  
+  section April 
+  
+  section May 
+  
+  section June 
+  
+  section July 
+  
+  section August  
+  
+  section September  
+  
+  section October  
+  
+  section November  
+  
+  section December  
+```
