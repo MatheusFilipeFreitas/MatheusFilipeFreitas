@@ -45,11 +45,11 @@ journey
   section March 
   	
   section April 
-  	LAB Cloathing Collection: Completed
+  	LAB Cloathing Collection: 7: Completed
   section May 
   
   section June 
-  	LAB Cloathing API: Completed
+  	LAB Cloathing API: 7: Completed
   section July 
  	 Fullstack E-commerce: 4: Ongoing
   section August  
