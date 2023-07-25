@@ -16,9 +16,14 @@
    - RESTful (JAVA, SPRING);
    - AWS;
    - RabbitMQ;
+   - Entity Framework;
+   - C#;
 - Frontend:
    - AngularJS (CSS, HTML, JS, TS);
-- I'm currently arresting Kotlin!
+   - Vue (TS, JS);
+- Learning:
+   - Flutter(Mobile | Dart);
+   - Kotlin (Mobile/Spring);
 
 <br>
 
@@ -35,19 +40,18 @@ journey
 	title Projects
 	section January
     YETI Animated Login Screen: 7: Completed
-		Fullstack E-commerce: 4: Ongoing
   section February
-  
+  	
   section March 
-  
+  	
   section April 
-  
+  	LAB Cloathing Collection: Completed
   section May 
   
   section June 
-  
+  	LAB Cloathing API: Completed
   section July 
-  
+ 	 Fullstack E-commerce: 4: Ongoing
   section August  
   
   section September  
