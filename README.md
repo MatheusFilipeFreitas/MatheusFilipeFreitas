@@ -12,18 +12,23 @@
 
 <h2 align="center">Hi 👋, I'm Matheus Freitas</h2>
 
+- Languages:
+  - Java;
+  - C#;
+  - Typescript;
+  - Javascript;
+  - MySQL/PostgreSQL/SQLServer/MongoDB;
 - Backend:
-   - RESTful (JAVA, SPRING);
-   - AWS;
-   - RabbitMQ;
+   - Spring Boot;
    - Entity Framework;
-   - C#;
+   - Dapper;
 - Frontend:
-   - AngularJS (CSS, HTML, JS, TS);
-   - Vue (TS, JS);
+   - Angular;
+   - Vue/Nuxt;
 - Learning:
-   - Flutter(Mobile | Dart);
-   - Kotlin (Mobile/Spring);
+   - Kotlin;
+   - React;
+   - RabbitMQ;
 
 <br>
 
