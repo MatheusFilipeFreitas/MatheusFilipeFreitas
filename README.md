@@ -25,6 +25,8 @@
 - Frontend:
    - Angular;
    - Vue/Nuxt;
+- Extra:
+   - RXJS;
 - Learning:
    - Kotlin;
    - React/Next;
