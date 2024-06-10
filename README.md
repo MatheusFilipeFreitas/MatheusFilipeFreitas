@@ -27,8 +27,9 @@
    - Vue/Nuxt;
 - Learning:
    - Kotlin;
-   - React;
+   - React/Next;
    - RabbitMQ;
+   - Express;
 
 <br>
 
