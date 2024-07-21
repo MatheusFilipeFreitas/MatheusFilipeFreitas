@@ -28,10 +28,9 @@
 - Extra:
    - RXJS;
 - Learning:
-   - Kotlin;
    - React/Next;
    - RabbitMQ;
-   - Express;
+   - Kafka;
 
 <br>
 
