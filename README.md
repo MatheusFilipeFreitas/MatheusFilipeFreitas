@@ -1,11 +1,17 @@
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" /> 
+  <img align="center" alt="DotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dotnetcore/dotnetcore-original.svg" /> 
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" /> 
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" />
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain-wordmark.svg" />
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" />
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg" /> 
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg" /> 
 </div>
 
 <h1 align="center">FULLSTACK DEVELOPER JR.</h1>
