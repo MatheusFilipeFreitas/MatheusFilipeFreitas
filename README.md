@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Audaces**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently studing: Postgraduate Program in Java – Elite Edition (Java Specialist) at **UNIPDS**
 
 - 👨‍💻 All of my projects are available at [(comming soon)]((comming soon))
 
